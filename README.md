@@ -17,11 +17,5 @@ The goal: uncover patterns in sales to boost profitability and customer satisfac
 - How can staffing or promotions be improved?
 
 
-## 📁 Files Included
-- `sales_data.xlsx` – Raw data
-- `dashboard.xlsx` – Interactive dashboard
-- `README.md` – Project summary
-
-
 ## 🙋‍♂️ Author
 Made by a data analyst passionate about solving business problems with data.
